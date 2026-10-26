@@ -2577,7 +2577,6 @@
 "Also restores the provider order in the menu bar. Can be undone." = "Ripristina anche l’ordine dei fornitori nella barra dei menu. L’azione può essere annullata.";
 "Local Codex details; excluded from combined totals." = "Dettagli Codex locali; esclusi dai totali combinati.";
 
-"Auto uses an API key when configured, otherwise browser cookies." = "Auto usa una chiave API se configurata, altrimenti i cookie del browser.";
 "Stored in the CodexBar config file. You can also set COMMAND_CODE_API_KEY." = "Memorizzata nel file di configurazione di CodexBar. Puoi anche impostare COMMAND_CODE_API_KEY.";
 /* OpenAI organization rate limits and live usage */
 "%@ tokens · %@ requests" = "%@ token · %@ richieste";
@@ -2763,3 +2762,5 @@
 "OpenCode local history" = "Cronologia locale di OpenCode";
 
 "Show this Mac's recorded OpenCode usage in Codex history. Off by default; scoped or alternate CODEX_HOME locations always stay excluded." = "Mostra nella cronologia di Codex l’uso di OpenCode registrato su questo Mac. Disattivato per impostazione predefinita; le posizioni CODEX_HOME con ambito limitato o alternative restano sempre escluse.";
+"Auto uses the active saved session, otherwise an API key or browser cookies." = "Auto usa la sessione salvata attiva, altrimenti una chiave API o i cookie del browser.";
+"Store multiple Command Code subscription sessions." = "Memorizza più sessioni di abbonamento a Command Code.";

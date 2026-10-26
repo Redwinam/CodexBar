@@ -2574,7 +2574,6 @@
 "Also restores the provider order in the menu bar. Can be undone." = "Cũng khôi phục thứ tự nhà cung cấp trên thanh menu. Có thể hoàn tác.";
 "Local Codex details; excluded from combined totals." = "Chi tiết Codex cục bộ; không được tính vào tổng kết hợp.";
 
-"Auto uses an API key when configured, otherwise browser cookies." = "Auto uses an API key when configured, otherwise browser cookies.";
 "Stored in the CodexBar config file. You can also set COMMAND_CODE_API_KEY." = "Stored in the CodexBar config file. You can also set COMMAND_CODE_API_KEY.";
 /* OpenAI organization rate limits and live usage */
 "%@ tokens · %@ requests" = "%@ token · %@ yêu cầu";
@@ -2760,3 +2759,5 @@
 "OpenCode local history" = "Lịch sử OpenCode cục bộ";
 
 "Show this Mac's recorded OpenCode usage in Codex history. Off by default; scoped or alternate CODEX_HOME locations always stay excluded." = "Hiển thị mức sử dụng OpenCode được ghi lại trên máy Mac này trong lịch sử Codex. Mặc định tắt; luôn loại trừ các vị trí CODEX_HOME có phạm vi giới hạn hoặc vị trí thay thế.";
+"Auto uses the active saved session, otherwise an API key or browser cookies." = "Tự động sử dụng phiên đã lưu đang hoạt động, nếu không thì sử dụng khóa API hoặc cookie trình duyệt.";
+"Store multiple Command Code subscription sessions." = "Lưu trữ nhiều phiên đăng ký Command Code.";
